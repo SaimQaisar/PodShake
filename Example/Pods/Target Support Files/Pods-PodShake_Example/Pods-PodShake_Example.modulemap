@@ -1,0 +1,6 @@
+framework module Pods_PodShake_Example {
+  umbrella header "Pods-PodShake_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

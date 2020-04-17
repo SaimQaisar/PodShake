@@ -1,0 +1,16 @@
+PODS:
+  - PodShake (0.1.0)
+
+DEPENDENCIES:
+  - PodShake (from `../`)
+
+EXTERNAL SOURCES:
+  PodShake:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodShake: c07e11991b3c6190fcb5365dcecd0af307cce760
+
+PODFILE CHECKSUM: 2c1dae1037623f9364f06e7bb8438cf42d6fa5ef
+
+COCOAPODS: 1.8.4
